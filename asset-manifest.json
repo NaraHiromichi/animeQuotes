@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/animeQuotes/static/css/main.5a2170cf.css",
+    "main.js": "/animeQuotes/static/js/main.96267416.js",
+    "index.html": "/animeQuotes/index.html",
+    "main.5a2170cf.css.map": "/animeQuotes/static/css/main.5a2170cf.css.map",
+    "main.96267416.js.map": "/animeQuotes/static/js/main.96267416.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a2170cf.css",
+    "static/js/main.96267416.js"
+  ]
+}

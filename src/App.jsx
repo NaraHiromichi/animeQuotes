@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 
 function App() {
   useEffect(() => {
-    fetch("https://animechan.vercel.app/api/random")
+    fetch("https://animechan.xyz/api/random")
       .then((response) => response.json())
       .then((data) => setQuote(data));
   }, []);
@@ -11,7 +11,7 @@ function App() {
   //event handler
 
   const handleNext = () => {
-    fetch("https://animechan.vercel.app/api/random")
+    fetch("https://animechan.xyz/api/random")
       .then((response) => response.json())
       .then((data) => setQuote(data));
   };
